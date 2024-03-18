@@ -3,7 +3,7 @@ import Form from "./components/Form/Form";
 function App() {
   return (
     <>
-      <div className="h-screen flex justify-center items-center">
+      <div className="h-screen bg-yellow-400 flex justify-center items-center">
         <Form></Form>
       </div>
     </>
